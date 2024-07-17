@@ -1,0 +1,248 @@
+{
+	"pages": [{
+		"path": "pages/login/login",
+		"style": {
+			"navigationBarBackgroundColor": "#FE8010",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "登录"
+		}
+	},{
+		"path": "pages/register/register",
+		"style": {
+			"navigationBarBackgroundColor": "#FE8010",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "注册"
+		}
+	},{
+		"path": "pages/forget/forget",
+		"style": {
+			"navigationBarBackgroundColor": "#FE8010",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "忘记密码"
+		}
+	},{
+		"path": "pages/center/center",
+		"style": {
+			"navigationBarBackgroundColor": "#FE8010",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "我的"
+		}
+	},{
+		"path": "pages/user-info/userinfo",
+		"style": {
+			"navigationBarBackgroundColor": "#FE8010",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "用户信息"
+		}
+	}
+		,{
+			"path": "pages/recharge/recharge",
+			"style": {
+				"navigationBarBackgroundColor": "#FE8010",
+				"navigationBarTextStyle": "white",
+				"navigationBarTitleText": "充值"
+			}
+		},{
+		"path": "pages/chat/list",
+		"style": {
+			"navigationBarBackgroundColor": "#f06f4f",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "客服聊天展示"
+		}
+	},{
+		"path": "pages/chat/add-or-update",
+		"style": {
+			"navigationBarBackgroundColor": "#f06f4f",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "客服聊天添加"
+		}
+	},{
+		"path": "pages/cart/list",
+		"style": {
+			"navigationBarBackgroundColor": "#FE8010",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "购物车展示"
+		}
+	},{
+		"path": "pages/cart/add-or-update",
+		"style": {
+			"navigationBarBackgroundColor": "#FE8010",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "购物车添加"
+		}
+	},{
+		"path": "pages/cart/detail",
+		"style": {
+			"navigationBarBackgroundColor": "#FE8010",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "购物车详情"
+		}
+	}
+	,{
+		"path": "pages/goods/list",
+		"style": {
+			"navigationBarBackgroundColor": "#FE8010",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "商品信息展示"
+		}
+	},{
+		"path": "pages/goods/add-or-update",
+		"style": {
+			"navigationBarBackgroundColor": "#FE8010",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "商品信息添加"
+		}
+	},{
+		"path": "pages/goods/detail",
+		"style": {
+			"navigationBarBackgroundColor": "#FE8010",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "商品信息详情"
+		}
+	}
+	,{
+		"path": "pages/goodsCollection/list",
+		"style": {
+			"navigationBarBackgroundColor": "#FE8010",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "商品收藏展示"
+		}
+	},{
+		"path": "pages/goodsCollection/add-or-update",
+		"style": {
+			"navigationBarBackgroundColor": "#FE8010",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "商品收藏添加"
+		}
+	},{
+		"path": "pages/goodsCollection/detail",
+		"style": {
+			"navigationBarBackgroundColor": "#FE8010",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "商品收藏详情"
+		}
+	}
+	,{
+		"path": "pages/goodsCommentback/list",
+		"style": {
+			"navigationBarBackgroundColor": "#FE8010",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "商品评价展示"
+		}
+	},{
+		"path": "pages/goodsCommentback/add-or-update",
+		"style": {
+			"navigationBarBackgroundColor": "#FE8010",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "商品评价添加"
+		}
+	},{
+		"path": "pages/goodsCommentback/detail",
+		"style": {
+			"navigationBarBackgroundColor": "#FE8010",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "商品评价详情"
+		}
+	}
+	,{
+		"path": "pages/goodsOrder/list",
+		"style": {
+			"navigationBarTitleText": "商品订单"
+		}
+	},{
+		"path": "pages/goodsOrder/confirm",
+		"style": {
+			"navigationBarTitleText": "订单确认"
+		}
+	}
+	,{
+		"path": "pages/news/list",
+		"style": {
+			"navigationBarBackgroundColor": "#FE8010",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "新闻信息展示"
+		}
+	},{
+		"path": "pages/news/add-or-update",
+		"style": {
+			"navigationBarBackgroundColor": "#FE8010",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "新闻信息添加"
+		}
+	},{
+		"path": "pages/news/detail",
+		"style": {
+			"navigationBarBackgroundColor": "#FE8010",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "新闻信息详情"
+		}
+	}
+	,{
+		"path": "pages/yonghu/list",
+		"style": {
+			"navigationBarBackgroundColor": "#FE8010",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "用户展示"
+		}
+	},{
+		"path": "pages/yonghu/add-or-update",
+		"style": {
+			"navigationBarBackgroundColor": "#FE8010",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "用户添加"
+		}
+	},{
+		"path": "pages/yonghu/detail",
+		"style": {
+			"navigationBarBackgroundColor": "#FE8010",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "用户详情"
+		}
+	}
+			,{
+		"path": "pages/index/index",
+		"style": {
+			"navigationBarBackgroundColor": "#FE8010",
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "首页"
+		}
+	}
+	],
+	"globalStyle": {
+		"navigationBarTextStyle": "black",
+		"navigationBarTitleText": "奶茶点餐小程序",
+		"navigationBarBackgroundColor": "#F8F8F8",
+		"backgroundColor": "#F8F8F8"
+	},
+	"tabBar": {
+		"color": "#FFFFFF",
+		"selectedColor": "#F37335",
+		"borderStyle": "black",
+		"backgroundColor": "#FE8010",
+		"list": [{
+				"pagePath": "pages/index/index",
+				"iconPath": "static/tabs/index.png",
+				"selectedIconPath": "static/tabs/index1.png",
+				"text": "首页"
+			}
+			,{
+				"pagePath": "pages/goods/list",
+				"iconPath": "static/tabs/type.png",
+				"selectedIconPath": "static/tabs/type1.png",
+				"text": "商品信息"
+			}
+			,{
+			 	"pagePath": "pages/news/list",
+				"iconPath": "static/tabs/order.png",
+			 	"selectedIconPath": "static/tabs/order1.png",
+				"text": "新闻信息"
+			}
+			,{
+				"pagePath": "pages/center/center",
+				"iconPath": "static/tabs/mine.png",
+				"selectedIconPath": "static/tabs/mine1.png",
+				"text": "我的"
+			}
+		]
+	}
+}
